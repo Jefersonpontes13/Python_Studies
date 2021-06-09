@@ -1,4 +1,4 @@
-## Estdudos sobre Python 3
+## Estudos sobre Python 3
 
 - Listas
 - Tuplas
