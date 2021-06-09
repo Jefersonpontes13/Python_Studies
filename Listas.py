@@ -35,5 +35,5 @@ lista_Interiros.remove(2)
 # Ordenar uma lista - Ascendente
 lista_Interiros.sort()
 
-# Ordenar uma lista - Descendente
+# Inverte a ordem dos elementos
 lista_Interiros.reverse()
