@@ -1,4 +1,4 @@
-# Lista: Sequencia de valores - Passíveis de mudança.
+# type[list] Lista: Sequencia de valores - Passíveis de mudança.
 lista_Interiros = [1, 2, 3, 4, 5, 6, 7]
 
 # Somar valores da lista

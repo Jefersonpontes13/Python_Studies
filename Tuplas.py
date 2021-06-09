@@ -1,4 +1,4 @@
-# Lista: Sequencia de valores - Não passíveis de mudança.
+# type[tuple] Tupla: Sequencia de valores - Não passíveis de mudança.
 
 tupla_Inteiros = (1, 2, 3, 4, 5, 6, 7)
 
