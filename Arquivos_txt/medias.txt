@@ -1,0 +1,4 @@
+Jorge,8.0
+Jeferson,7.0
+Lucas,7.333333333333333
+Samuel,8.0

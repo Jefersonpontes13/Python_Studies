@@ -1,0 +1,5 @@
+Aluno,AP1,AP2,AP3
+Jorge,7,8,9
+Jeferson,7,7,7
+Lucas,6,7,9
+Samuel,9,6,9
