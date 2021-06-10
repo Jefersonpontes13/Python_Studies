@@ -12,4 +12,4 @@
 - Erros e Exeções
   - try
   - except
-    
+- Pacote requests
