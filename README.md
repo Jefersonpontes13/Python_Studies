@@ -8,3 +8,8 @@
 - Módulos
 - lambda parameter
 - Arquivos
+- Data and time
+- Erros e Exeções
+  - try
+  - except
+    
