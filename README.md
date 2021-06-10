@@ -3,3 +3,8 @@
 - Listas
 - Tuplas
 - Conjuntos
+- Funções
+- Classes
+- Módulos
+- lambda parameter
+- Arquivos
