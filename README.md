@@ -1,6 +1,7 @@
 ## Estudos sobre Python 3
 
 - Listas
+  - List Comprehension
 - Tuplas
 - Conjuntos
 - Funções

@@ -37,3 +37,6 @@ lista_Interiros.sort()
 
 # Inverte a ordem dos elementos
 lista_Interiros.reverse()
+
+# Python - List Comprehension
+lista_Interiros_Ao_Quadrado = [elemento_Inteiro ** 2 for elemento_Inteiro in lista_Interiros]
